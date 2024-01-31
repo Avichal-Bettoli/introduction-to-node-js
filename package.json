@@ -1,0 +1,20 @@
+{
+  "name": "introduction-to-node",
+  "version": "1.0.0",
+  "description": "Introduction of Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avichal-Bettoli/introduction-to-node-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avichal-Bettoli/introduction-to-node-js/issues"
+  },
+  "homepage": "https://github.com/Avichal-Bettoli/introduction-to-node-js#readme"
+}
